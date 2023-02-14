@@ -1,4 +1,4 @@
-![matrix](/matrix.png)
+![matrix](/matrix.jpg)
 
 # MatrixPlus
 
